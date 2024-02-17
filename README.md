@@ -45,6 +45,10 @@ This Python script generates a set of random lines and shapes on a canvas using 
 - `num_lines`: Number of lines to generate (with shapes attached to extrimities)
 - Various parameters for customizing line lengths, rectangle dimensions, circle radii, and more.
 
+## Preview
+
+![Example of generated image](preview.png)
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
