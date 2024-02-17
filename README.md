@@ -47,7 +47,7 @@ This Python script generates a set of random lines and shapes on a canvas using 
 
 ## Preview
 
-![Example of generated image](preview.png)
+![Example of generated image](art-preview.png)
 
 ## Contributing
 
