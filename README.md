@@ -1,4 +1,4 @@
-# Random Line and Shape Generator
+# Abstract Art Generator
 
 This Python script generates a set of random lines and shapes on a canvas using the Python Imaging Library (PIL), random number generation, and probability distributions provided by the PyTorch library.
 
