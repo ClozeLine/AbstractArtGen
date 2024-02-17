@@ -4,7 +4,7 @@ This Python script generates a set of random lines and shapes on a canvas using 
 
 ## Features
 
-- Generates a set of random lines and shapes on a canvas.
+- Generates a set of random lines and shapes on a canvas, inspired by Roman Haubenstock-Ramati
 - Supports the generation of rectangles and circles.
 - Allows customization of line lengths, rectangle dimensions, circle radii, and other parameters.
 
