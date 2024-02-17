@@ -1,5 +1,4 @@
 import math
-
 from PIL import Image, ImageDraw
 import random as rand
 import torch
